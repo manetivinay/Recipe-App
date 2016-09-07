@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Samll\'s Like Bakin</string>
+    <string name="tab_ingredients">Ingredients</string>
+    <string name="tab_directions">Directions</string>
+</resources>
